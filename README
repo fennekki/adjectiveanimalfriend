@@ -1,0 +1,9 @@
+Generates animal friend names and tweets them.
+
+Run manually or through your favourite variant of cron.
+
+Requires:
+
+- config.py that contains the Twitter OAuth access tokens
+- adjective.txt, animal.txt, friend.txt that contain the relevant words,
+  one per line
